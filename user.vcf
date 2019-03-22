@@ -6,8 +6,8 @@ FN: Margaret Capossela
 ORG:NEED New York;
 TITLE:Managing Partner 
 EMAIL;type=INTERNET;type=WORK;type=pref:mcapossela@needfs.com
-TEL;type=WORK;type=VOICE:+12122263358
-TEL;type=MOBILE;type=VOICE;+15164135890
+TEL;type=WORK;type=VOICE:+12122263358;
+TEL;type=MOBILE;type=VOICE;+15164135890;
 item1.ADR;type=WORK;type=pref:;;180 Varick St., Ste. 1214\nNew York\, NY;;;10014;United States
 item1.X-ABADR:sg
 item2.URL;type=pref:needfs.com
